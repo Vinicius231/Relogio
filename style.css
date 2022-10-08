@@ -1,0 +1,20 @@
+div{
+    background: rgb(18,18,18);
+    width: 600px;
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+    text-align: center;
+    margin: auto;
+}
+body{
+    color: white;
+    background: linear-gradient(to right, yellow, rgb(0, 255, 0));
+}
+h1{
+    font-size: 35pt;
+    color: yellow;
+}
+p{
+    font-size: 30pt;
+}
